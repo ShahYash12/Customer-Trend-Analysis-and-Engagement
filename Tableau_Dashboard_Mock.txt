@@ -1,0 +1,18 @@
+Dashboard: Customer Engagement Overview
+
+1. Retention Heatmap:
+   - Rows: Signup Month
+   - Columns: Activity Month
+   - Color: % Retained Users
+   - Use filters for Segment and Geography
+
+2. Click-Through Rate Bar Chart:
+   - Dimension: Customer Segment
+   - Measure: Average Click Rate
+   - Sorted Descending
+
+3. Timeline of Engagement:
+   - Line chart showing monthly engagement trend
+   - Filters: Campaign Type, Device Type
+
+Data Source: Prepared CSV/SQL output from Python preprocessing scripts.
